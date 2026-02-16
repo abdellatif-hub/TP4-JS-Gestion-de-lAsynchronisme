@@ -82,27 +82,54 @@ Récupération des données via une fonction de rappel.
 ## l'exécution : 
 <img width="2462" height="807" alt="image" src="https://github.com/user-attachments/assets/144486fd-806f-4d25-b7ca-8b5eb191f4b8" />
 
-
-
 ---
-
 
 
 ### 3️ Promise
 Utilisation de resolve() et reject().
+ ## code source:
+ 
+<img width="2198" height="740" alt="image" src="https://github.com/user-attachments/assets/36cd920b-91cd-4be0-b786-e13367a3cd6e" />
+<img width="2310" height="352" alt="image" src="https://github.com/user-attachments/assets/5ba690be-ebeb-4d1d-b2ce-a3be8cf8bfc9" />
+
+## l'exécution : 
+<img width="2451" height="427" alt="image" src="https://github.com/user-attachments/assets/21a0cf19-cd87-4902-9391-90508f640261" />
+
+
 
 
 ---
 
 ### 4️ async / await
+
+ ## code source:
 Écriture asynchrone plus lisible et moderne.
+<img width="2214" height="516" alt="image" src="https://github.com/user-attachments/assets/4543e7c5-6cc4-43cd-9777-71f74bdf8c11" />
+
+## l'exécution : 
+<img width="2376" height="689" alt="image" src="https://github.com/user-attachments/assets/25177a50-753d-418d-b2ea-af1a3ffc8c27" />
+
+
 
 ---
 
 ### 5️ Manipulation du DOM
 Création dynamique d’éléments HTML pour afficher les produits.
 
----
+ ## code source:
+<img width="2446" height="844" alt="image" src="https://github.com/user-attachments/assets/6ee2af56-fc42-4f81-8e40-ec8ae1441e0d" />
+## l'exécution : 
+
+### Affichage du message "Chargement..." après le clic sur le bouton, montrant l’exécution du code asynchrone.
+
+<img width="2559" height="1252" alt="image" src="https://github.com/user-attachments/assets/415a8065-048d-4d92-a7a5-5fae66f25b38" />
+
+### Affichage dynamique des produits après 2 secondes, confirmant le bon fonctionnement de la Promise et de la manipulation du DOM.
+
+<img width="2558" height="1174" alt="image" src="https://github.com/user-attachments/assets/9941208c-3b5a-4fd7-9725-99690bd4f774" />
+
+##  Cas d’erreur : 
+<img width="2557" height="1164" alt="image" src="https://github.com/user-attachments/assets/b9ab174d-7089-47ab-8a34-21a607ec2ed6" />
 
 
 
@@ -110,39 +137,22 @@ Création dynamique d’éléments HTML pour afficher les produits.
 
 
 
-## 📌 Interface initiale
-
-> (Insérer ici la capture d’écran de la page avant clic)
-
-![Interface Initiale](images/interface.png)
-
----
-
-## 📌 Message de chargement
-
-> (Insérer ici la capture avec "Chargement...")
-
-![Chargement](images/loading.png)
-
----
-
-## 📌 Affichage des produits
-
-> (Insérer ici la capture avec les produits affichés)
-
-![Produits](images/produits.png)
 
 ---
 
-## 📌 Cas d’erreur
+## 📖 Conclusion
 
-> (Insérer ici la capture avec "Erreur serveur")
+Ce TP m’a permis de comprendre :
 
-![Erreur](images/erreur.png)
+- Le comportement non bloquant de JavaScript
+- La différence entre Callback, Promise et async/await
+- L’importance de la gestion des erreurs
+- La manipulation dynamique du DOM
 
----
+La programmation asynchrone est essentielle pour les applications web modernes.
 
-## 🧪 Exemple de résultat attendu
+
+
 
 
 
