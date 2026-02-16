@@ -118,6 +118,8 @@ Création dynamique d’éléments HTML pour afficher les produits.
 
  ## code source:
 <img width="2446" height="844" alt="image" src="https://github.com/user-attachments/assets/6ee2af56-fc42-4f81-8e40-ec8ae1441e0d" />
+
+
 ## l'exécution : 
 
 ### Affichage du message "Chargement..." après le clic sur le bouton, montrant l’exécution du code asynchrone.
