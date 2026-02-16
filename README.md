@@ -104,7 +104,7 @@ Utilisation de resolve() et reject().
 
  ## code source:
 Écriture asynchrone plus lisible et moderne.
-<img width="2214" height="516" alt="image" src="https://github.com/user-attachments/assets/4543e7c5-6cc4-43cd-9777-71f74bdf8c11" />
+<img width="2306" height="540" alt="image" src="https://github.com/user-attachments/assets/dfdcc411-3196-4180-93c4-edbf3f08b1cf" />
 
 ## l'exécution : 
 <img width="2376" height="689" alt="image" src="https://github.com/user-attachments/assets/25177a50-753d-418d-b2ea-af1a3ffc8c27" />
